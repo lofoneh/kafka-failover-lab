@@ -1,0 +1,2 @@
+Topic: t-one-2	TopicId: k9KMIG1vRB-_P0mhXuQ4Rg	PartitionCount: 1	ReplicationFactor: 3	Configs: min.insync.replicas=2
+	Topic: t-one-2	Partition: 0	Leader: 1	Replicas: 0,1,2	Isr: 0,1,2	Elr: 	LastKnownElr: 

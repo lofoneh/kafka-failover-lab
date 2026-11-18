@@ -1,0 +1,2 @@
+Topic: t-graceful-all-3	TopicId: h7-tUvt9SxW9sOzi3W8kXg	PartitionCount: 1	ReplicationFactor: 3	Configs: min.insync.replicas=2
+	Topic: t-graceful-all-3	Partition: 0	Leader: 0	Replicas: 2,0,1	Isr: 0,1,2	Elr: 	LastKnownElr: 

@@ -1,0 +1,12 @@
+# The kind cluster's credentials
+kubeconfig
+
+# Downloaded Strimzi release files; the README fetches the operator YAML
+vendor/
+manifests/strimzi-cluster-operator-*.yaml
+
+# Raw trial output: the repository keeps the .gz copies
+results/*/producer.jsonl
+results/*/consumed.txt
+
+__pycache__/

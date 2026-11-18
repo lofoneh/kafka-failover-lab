@@ -1,0 +1,16 @@
+{
+  "trial": "graceful-all-1",
+  "acks": "all",
+  "mode": "graceful",
+  "leader": 1,
+  "killed_at": 10073,
+  "sent": 30000,
+  "acked": 29188,
+  "failed": 812,
+  "failed_but_written": 0,
+  "consumed": 29188,
+  "lost": 0,
+  "lost_values": [],
+  "duplicates": 0,
+  "stall_ms": 523
+}

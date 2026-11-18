@@ -1,0 +1,13 @@
+{
+  "trial": "all-2",
+  "acks": "all",
+  "leader": 1,
+  "killed_at": 17218,
+  "sent": 30000,
+  "acked": 29882,
+  "errors": 118,
+  "consumed": 29916,
+  "lost": 0,
+  "lost_values": [],
+  "duplicates": 0
+}
